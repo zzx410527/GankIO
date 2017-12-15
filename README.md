@@ -19,9 +19,9 @@
 该版本只是实现了基本功能，由于最近工作原因，好多想法还没有加进去，后续会完善 。先分享给大家。仅供学习使用，
 感谢开源社区。
 # 项目截图
-<img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/1.jpeg" width="40%" height="40%"><img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/2.jpeg" width="40%" height="40%">
-<img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/4.jpeg" width="40%" height="40%"><img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/5.jpeg" width="40%" height="40%">
-<img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/6.jpeg" width="40%" height="40%"><img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/3.png" width="40%" height="40%">
+<img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/1.jpeg" width="50%" height="50%">    <img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/2.jpeg" width="50%" height="50%">
+<img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/4.jpeg" width="50%" height="50%">    <img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/5.jpeg" width="50%" height="50%">
+<img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/6.jpeg" width="50%" height="50%">    <img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/3.png" width="50%" height="50%">
 
 # 项目进度
 ### v 0.5（2017-12-15）: gank API 基本功能实现
