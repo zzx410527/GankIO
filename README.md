@@ -19,6 +19,7 @@
 该版本只是实现了基本功能，由于最近工作原因，好多想法还没有加进去，后续会完善 。先分享给大家。仅供学习使用，
 感谢开源社区。
 # 项目截图
+<img src="https://github.com/zzx410527/GankIO/raw/master/Screenshots/1.jpeg" width="50%" height="50%">
 
 ![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/1.jpeg)![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/2.jpeg)
 ![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/3.png)![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/4.jpeg)
