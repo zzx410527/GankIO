@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:icon="@drawable/ic_all"
+            android:title="@string/all"/>
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/ic_android"
+            android:title="@string/android"/>
+        <item
+            android:id="@+id/nav_ios"
+            android:icon="@drawable/ic_iphone"
+            android:title="@string/ios"/>
+        <item
+            android:id="@+id/nav_front"
+            android:icon="@drawable/ic_js"
+            android:title="@string/front"/>
+        <item
+            android:id="@+id/nav_welfare"
+            android:icon="@drawable/ic_welfare"
+            android:title="@string/fuli"/>
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_video"
+            android:title="@string/video"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/icon_about"
+                android:title="@string/about"/>
+        </menu>
+    </item>
+
+</menu>
