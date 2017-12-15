@@ -54,7 +54,7 @@ com.github.chrisbanes:PhotoView:2.0.0
 
 # Licenses
  
- Copyright 2017 zzx410527
+ Copyright 2017 zzx410527@gmail.com
 
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
