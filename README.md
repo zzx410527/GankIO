@@ -20,13 +20,9 @@
 感谢开源社区。
 # 项目截图
 
-![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/1.jpeg)
-
-![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/2.jpeg)
-![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/3.png)
-![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/4.jpeg)
-![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/5.jpeg)
-![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/6.jpeg)
+![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/1.jpeg)![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/2.jpeg)
+![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/3.png)![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/4.jpeg)
+![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/5.jpeg)![截图](https://github.com/zzx410527/GankIO/raw/master/Screenshots/6.jpeg)
 
 # 项目进度
 ### v 0.5（2017-12-15）: gank API 基本功能实现
