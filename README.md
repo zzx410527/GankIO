@@ -52,7 +52,8 @@ com.github.bumptech.glide:glide:3.7.0
 com.github.chrisbanes:PhotoView:2.0.0
 
 
-Licenses
+# Licenses
+ 
  Copyright 2017 zzx410527
 
  Licensed under the Apache License, Version 2.0 (the "License");
